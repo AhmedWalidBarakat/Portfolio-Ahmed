@@ -13,10 +13,10 @@ h1, h2, h3, h4, .logo {
 
 :root {
   --bg-color: #0a0a0a;
-  --second-bg-color: #111511;
+  --second-bg-color: #121016;
   --text-color: white;
-  --main-color: #22c55e;
-  --main-color-deep: #15803d;
+  --main-color: #c4b5fd;
+  --main-color-deep: #f9a8d4;
 }
 
 html {
