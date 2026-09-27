@@ -405,6 +405,17 @@ section {
   color: #dc2626;
 }
 
+.project-card.accent-violet {
+  border-color: #a78bfa;
+  box-shadow: 0 0 5px #a78bfa;
+}
+.project-card.accent-violet:hover {
+  box-shadow: 0 0 25px #a78bfa, 0 0 50px #a78bfa;
+}
+.project-card.accent-violet h3 {
+  color: #a78bfa;
+}
+
 .project-card p {
   font-size: 1.6rem
 }
